@@ -9,7 +9,7 @@ npm install
 ```
 add mapbox access token to node env
 ```
-export MapboxAccessToken=<your_mapbox_token>
+export MapboxAccessToken=pk.eyJ1IjoieHpyYW5ubm4iLCJhIjoiY2pmaXZxbjIxMGEzaDJ3cThnaTc1a25tNCJ9.Ny6q1ACtjLDEANDbJEIIRw
 ```
 
 then
