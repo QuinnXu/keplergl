@@ -95,7 +95,6 @@ class App extends Component {
   render() {
     return (
       <div style={{position: 'absolute', width: '100%', height: '100%', minHeight: '70vh'}}>
-        <Button onClick={this.replaceData}>Replace Data</Button>
         <AutoSizer>
           {({height, width}) => (
             <KeplerGl
