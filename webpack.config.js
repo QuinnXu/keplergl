@@ -50,7 +50,11 @@ const CONFIG = {
       }
     ]
   },
-
+  
+  devServer: {
+    port:5000
+  },
+  
   node: {
     fs: 'empty'
   },
