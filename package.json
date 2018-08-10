@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "webpack-dev-server --progress --hot --open"
+    "start": "export MapboxAccessToken=pk.eyJ1IjoieHpyYW5ubm4iLCJhIjoiY2pmaXZxbjIxMGEzaDJ3cThnaTc1a25tNCJ9.Ny6q1ACtjLDEANDbJEIIRw && webpack-dev-server --progress --hot --open"
   },
   "dependencies": {
     "global": "^4.3.0",
